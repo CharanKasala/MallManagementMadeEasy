@@ -117,4 +117,17 @@ Food Admin:
 Follow the below steps to contribute/make changes to the project
 
 1. For the repository
-2. Create a New Branch for Your Changes
+
+2. Clone the Repository Locally
+
+	[git clone https://github.com/CharanKasala/mall-management-system.git](https://github.com/CharanKasala/MallManagementMadeEasy)
+ 
+4. Create a New Branch for Your Changes
+   
+	git checkout -b my-feature-branch
+
+3. Stage and Commit Your Changes
+
+   	git add .
+
+4.
