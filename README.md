@@ -26,28 +26,27 @@ This repository houses the Mall Management System project, designed to optimize 
 
 
 **Individual Contributions**
-•	Vamsi Krishna Changala:
 
-o	Developed job openings and applications view, parking space booking from customer perspective, and parking space management from admin perspective.
 
-•	Keerthi Reddy Tummalapelly:
+**Vamsi Krishna Changala:**
 
-o	Implemented the movie booking system and managed food stalls and menus from both customer and admin perspectives.
+Developed job openings and applications view, parking space booking from customer perspective, and parking space management from admin perspective.
 
-•	Kavya Sree Katakam:
+**Keerthi Reddy Tummalapelly:**
 
-o	Developed event management features and food ordering history from the customer perspective.
+Implemented the movie booking system and managed food stalls and menus from both customer and admin perspectives.
 
-•	Manojna Borra:
+**Kavya Sree Katakam:**
 
-o	Built admin-side food order processing and the job opportunities feature.
+Developed event management features and food ordering history from the customer perspective.
 
-•	Charan Kasala:
+**Manojna Borra:**
 
-o	Managed shops, food stalls, and parking space view features from the customer side.
+Built admin-side food order processing and the job opportunities feature.
 
-•	Nikhitha Bijjala:
 
-o	Designed the homepage, developed user management for admins, and added the gaming and job management features.
+**Nikhitha Bijjala:**
+
+Designed the homepage, developed user management for admins, and added the gaming and job management features.
 
 
