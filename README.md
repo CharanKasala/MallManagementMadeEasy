@@ -23,3 +23,31 @@ This repository houses the Mall Management System project, designed to optimize 
 •	View Job Openings: Browse available job opportunities and track application status.
 •	Order Food: Browse food stalls, place orders, and monitor order status.
 •	View Events: Stay informed about ongoing events, promotions, and activities at the mall
+
+
+**Individual Contributions**
+•	Vamsi Krishna Changala:
+
+o	Developed job openings and applications view, parking space booking from customer perspective, and parking space management from admin perspective.
+
+•	Keerthi Reddy Tummalapelly:
+
+o	Implemented the movie booking system and managed food stalls and menus from both customer and admin perspectives.
+
+•	Kavya Sree Katakam:
+
+o	Developed event management features and food ordering history from the customer perspective.
+
+•	Manojna Borra:
+
+o	Built admin-side food order processing and the job opportunities feature.
+
+•	Charan Kasala:
+
+o	Managed shops, food stalls, and parking space view features from the customer side.
+
+•	Nikhitha Bijjala:
+
+o	Designed the homepage, developed user management for admins, and added the gaming and job management features.
+
+
