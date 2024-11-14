@@ -108,8 +108,13 @@ Food Admin:
 
 **Customer:**
 
-Username: Keerthi@gmail.com
+	Username: Keerthi@gmail.com
 
-Password: Demo@123
+	Password: Demo@123
 
+**Contribute:**
 
+Follow the below steps to contribute/make changes to the project
+
+1. For the repository
+2. Create a New Branch for Your Changes
