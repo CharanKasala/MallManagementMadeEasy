@@ -36,7 +36,7 @@ This repository houses the Mall Management System project, designed to optimize 
 
 <ins>**PROJECT SETUP:**</ins>
 
-**Pre-requisites:**
+<ins>**Pre-requisites:**</ins>
 
 **Java 11:** Install Java Development Kit (JDK) version 11.
 
@@ -46,7 +46,7 @@ This repository houses the Mall Management System project, designed to optimize 
 
 **MySQL Workbench:** Install MySQL Workbenchfor managing MySQL databases
 
-**Frontend Setup**
+<ins>**Frontend Setup:**</ins>
 
 1. Import zip file into Eclipse IDE
 
@@ -70,7 +70,7 @@ This repository houses the Mall Management System project, designed to optimize 
 
 •	server.port = 8080
 
-**Backend Setup**
+<ins>**Backend Setup:**</ins>
 
 1.  Create MYSQL server on port 8080.
   
