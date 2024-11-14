@@ -27,7 +27,6 @@ This repository houses the Mall Management System project, designed to optimize 
 
 **Individual Contributions**
 
-
 **Vamsi Krishna Changala:**
 
 Developed job openings and applications view, parking space booking from customer perspective, and parking space management from admin perspective.
@@ -44,6 +43,9 @@ Developed event management features and food ordering history from the customer 
 
 Built admin-side food order processing and the job opportunities feature.
 
+**Charan Kasala:**
+
+Managed shops, food stalls, and parking space view features from the customer side.
 
 **Nikhitha Bijjala:**
 
