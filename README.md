@@ -51,10 +51,20 @@ Managed shops, food stalls, and parking space view features from the customer si
 
 Designed the homepage, developed user management for admins, and added the gaming and job management features.
 
+**PROJECT SETUP:**
 
 **Pre-requisites:**
-**Java 11:** Install Java Development Kit (JDK) version 11.
-**Maven:** Install Apache Maven for project management and build automation.
-**Eclipse IDE** for Enterprise Java and Web Developers (2022-12): Install Eclipse IDE for Java EE development, specifically the version released in December 2022.
-**MySQL Workbench 8.0 CE:** Install MySQL Workbench Community Edition version 8.0 for managing MySQL databases
 
+**Java 11:** Install Java Development Kit (JDK) version 11.
+
+**Maven:** Install Apache Maven for project management and build automation.
+
+**Eclipse IDE** : Install Eclipse IDE for Java EE development
+
+**MySQL Workbench:** Install MySQL Workbenchfor managing MySQL databases
+
+**Frontend Setup**
+
+Import zip file into Eclipse IDE
+
+Add [lombok](https://projectlombok.org/setup/) plugin to eclipse 
