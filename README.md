@@ -2,7 +2,7 @@
 
 This repository houses the Mall Management System project, designed to optimize the management of various mall operations, including parking space reservations, food stall administration, gaming features, and job application handling. The application is developed using Java, Spring Boot, and MySQL, and is fully deployed on an AWS EC2 instance.
 
-**Features of the Application:** 
+<ins>**Features of the Application:** </ins>
 
 **Admin  Features:**
 
@@ -34,7 +34,7 @@ This repository houses the Mall Management System project, designed to optimize 
 •	**View Events:** Stay informed about ongoing events, promotions, and activities at the mall
 
 
-**PROJECT SETUP:**
+<ins>**PROJECT SETUP:**</ins>
 
 **Pre-requisites:**
 
@@ -76,7 +76,7 @@ This repository houses the Mall Management System project, designed to optimize 
   
 2.	Dump the Database.sql file into MySQL Workbench.
 
-**Credentials for Testing**
+<ins>**Credentials for Testing**</ins>
 
 **Admin:**
 
@@ -112,7 +112,7 @@ Food Admin:
 
 	Password: Demo@123
 
-**Contribute:**
+<ins>**Contribute:**</<ins>>
 
 Follow the below steps to contribute/make changes to the project
 
