@@ -120,22 +120,22 @@ Follow the below steps to contribute/make changes to the project
 
 2. Clone the Repository Locally
 
-	git clone https://github.com/CharanKasala/mall-management-system.git
+		git clone https://github.com/CharanKasala/mall-management-system.git
  
 3. Create a New Branch for Your Changes
    
-	git checkout -b my-feature-branch
+		git checkout -b my-feature-branch
 
 4. Make Changes Locally
 
 5. Stage and Commit Your Changes
 
-   	git add .
+   		git add .
 
-	git commit -m "Description of the changes made"
+		git commit -m "Description of the changes made"
 
 6. Push Your Changes to GitHub
 
-   	git push origin my-feature-branch
+   		git push origin my-feature-branch
 
 7. Create a Pull Request for review
