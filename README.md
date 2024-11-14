@@ -112,7 +112,7 @@ Food Admin:
 
 	Password: Demo@123
 
-<ins>**Contribute:**</<ins>>
+<ins>**Contribute:**</ins>
 
 Follow the below steps to contribute/make changes to the project
 
