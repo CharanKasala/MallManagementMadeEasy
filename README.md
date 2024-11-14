@@ -116,7 +116,7 @@ Food Admin:
 
 Follow the below steps to contribute/make changes to the project
 
-1. For the repository
+1. Fork the repository
 
 2. Clone the Repository Locally
 
