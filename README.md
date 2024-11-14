@@ -34,32 +34,6 @@ This repository houses the Mall Management System project, designed to optimize 
 •	**View Events:** Stay informed about ongoing events, promotions, and activities at the mall
 
 
-**Individual Contributions**
-
-**Vamsi Krishna Changala:**
-
-Developed job openings and applications view, parking space booking from customer perspective, and parking space management from admin perspective.
-
-**Keerthi Reddy Tummalapelly:**
-
-Implemented the movie booking system and managed food stalls and menus from both customer and admin perspectives.
-
-**Kavya Sree Katakam:**
-
-Developed event management features and food ordering history from the customer perspective.
-
-**Manojna Borra:**
-
-Built admin-side food order processing and the job opportunities feature.
-
-**Charan Kasala:**
-
-Managed shops, food stalls, and parking space view features from the customer side.
-
-**Nikhitha Bijjala:**
-
-Designed the homepage, developed user management for admins, and added the gaming and job management features.
-
 **PROJECT SETUP:**
 
 **Pre-requisites:**
@@ -74,6 +48,23 @@ Designed the homepage, developed user management for admins, and added the gamin
 
 **Frontend Setup**
 
-Import zip file into Eclipse IDE
+1. Import zip file into Eclipse IDE
 
-Add [lombok](https://projectlombok.org/setup/) plugin to eclipse 
+2. Add [lombok](https://projectlombok.org/setup/) plugin to eclipse 
+
+3.	Edit the following properties in ~/mallmgt/src/main/resources/application.properties file.
+•	spring.datasource.url=jdbc:mysql://localhost:3306/mallmgt?createDatabaseIfNotExist=true
+•	spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+•	spring.datasource.username=root
+•	spring.datasource.password=root
+•	spring.jpa.database-platform = org.hibernate.dialect.MySQL8Dialect
+•	spring.jpa.generate-ddl=true
+•	spring.jpa.hibernate.ddl-auto = update
+•	server.port = 8080
+
+**Backend Setup**
+
+1.  Create MYSQL server on port 8080.
+  
+2.	Dump the Database.sql file into MySQL Workbench.
+
