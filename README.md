@@ -76,3 +76,41 @@ This repository houses the Mall Management System project, designed to optimize 
   
 2.	Dump the Database.sql file into MySQL Workbench.
 
+**Credentials for Testing**
+
+**•	 Admin: **
+
+Main Admin: 
+
+	Username: Admin@gmail.com
+ 
+	Password: Demo@123
+
+Food Admin:
+
+	Food stall Name: Taco Bell
+ 
+		Username: Tacobelladmin@gmail.com
+  
+		Password: Demo@123
+  
+	Food stall Name: Popeyes
+ 
+		Username: Popeyesadmin@gmail.com
+  
+		Password: Demo@123
+  
+	Food stall Name: Mc Donalds
+ 
+		Username: Mcdadmin@gmail.com
+  
+		Password: Demo@123
+
+
+**•	Customer:**
+
+Username: Keerthi@gmail.com
+
+Password: Demo@123
+
+
