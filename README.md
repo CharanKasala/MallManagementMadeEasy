@@ -78,7 +78,7 @@ This repository houses the Mall Management System project, designed to optimize 
 
 **Credentials for Testing**
 
-**•	 Admin: **
+**Admin:**
 
 Main Admin: 
 
@@ -107,7 +107,7 @@ Food Admin:
 		Password: Demo@123
 
 
-**•	Customer:**
+** Customer:**
 
 Username: Keerthi@gmail.com
 
