@@ -85,7 +85,7 @@ Main Admin:
 	Username: Admin@gmail.com
  
 	Password: Demo@123
-
+ 
 Food Admin:
 
 	Food stall Name: Taco Bell
@@ -106,8 +106,7 @@ Food Admin:
   
 		Password: Demo@123
 
-
-** Customer:**
+**Customer:**
 
 Username: Keerthi@gmail.com
 
