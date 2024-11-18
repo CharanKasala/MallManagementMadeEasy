@@ -120,7 +120,7 @@ Follow the below steps to contribute/make changes to the project
 
 2. Clone the Repository Locally
 
-		git clone https://github.com/CharanKasala/mall-management-system.git
+		git clone https://github.com/CharanKasala/MallManagementMadeEasy.git
  
 3. Create a New Branch for Your Changes
    
